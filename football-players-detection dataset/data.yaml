@@ -1,0 +1,15 @@
+# Number of classes
+nc: 4  # Total number of classes (ball, goalkeeper, player, referee)
+
+
+# Paths
+train: /kaggle/input/football-play-detect/train/images  # Train images directory
+val: /kaggle/input/football-play-detect/valid/images  # Validation images directory
+
+# Class names
+names:
+  - ball
+  - goalkeeper
+  - player
+  - referee
+
