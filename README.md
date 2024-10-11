@@ -1,6 +1,13 @@
 # YOLO Football Play Detection
 
-This project utilizes the YOLO (You Only Look Once) model for detecting various football plays in images. The model is trained on a dataset specifically curated for this task and can predict bounding boxes around different objects in the scene.
+This project utilizes the YOLO (You Only Look Once) model for detecting various football plays in images. The model is trained on a dataset specifically curated for this task and can predict bounding boxes around different objects in the scene. . The aim is to enhance understanding and analysis of football plays, which can be beneficial for coaching, strategy development, and player performance evaluation.
+
+
+## Project Objectives
+Real-Time Detection: To provide real-time detection of football plays in images, facilitating quick analysis.
+Bounding Box Visualization: To visualize detected plays with bounding boxes, enhancing clarity in object detection.
+Class Distribution Analysis: To analyze the distribution of different detected classes, aiding in understanding play frequency and patterns
+
 
 ## Usage
 
