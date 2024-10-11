@@ -8,7 +8,7 @@ Real-Time Detection: To provide real-time detection of football plays in images,
 Bounding Box Visualization: To visualize detected plays with bounding boxes, enhancing clarity in object detection.
 Class Distribution Analysis: To analyze the distribution of different detected classes, aiding in understanding play frequency and patterns
 
-
+ 
 ## Usage
 
 1. **Load the YOLOv8 model**:
